@@ -44,7 +44,7 @@ To get started with the project, follow these steps:
 
 1. **🔗 Access the Application**
 
-    Open your web browser and navigate to `http://localhost:8080/your-webapp-context/`.
+    Open your web browser and navigate to `http://localhost:8080/Web-Based Data-Transmission-Error-Detection-and Correction-Tool/`.
 
 2. **📝 Encode Data**
 
